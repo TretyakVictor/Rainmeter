@@ -18,6 +18,7 @@ StringAlign=Left
 FontColor=#MColor1#
 FontSize=#FontHeight9#
 FontFace=#FontName#
+AntiAlias=1
 
 [RAMStat]
 StringAlign=Right
@@ -101,12 +102,14 @@ StringAlign=Left
 FontColor=#MColor1#
 FontSize=#FontHeight9#
 FontFace=#FontName#
+AntiAlias=1
 
 [NetInAllText]
 StringAlign=Left
 FontColor=#MColor3#
 FontSize=#FontHeight9#
 FontFace=#FontName#
+AntiAlias=1
 
 [NetTrafficDLText]
 FontColor=#MColor1#
@@ -127,12 +130,14 @@ StringAlign=Left
 FontColor=#MColor1#
 FontSize=#FontHeight9#
 FontFace=#FontName#
+AntiAlias=1
 
 [NetOutAllText]
 StringAlign=Left
 FontColor=#MColor3#
 FontSize=#FontHeight9#
 FontFace=#FontName#
+AntiAlias=1
 
 [NetTrafficUpText]
 FontColor=#MColor1#
